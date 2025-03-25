@@ -12,3 +12,4 @@ src/DetectionHF/constants/__init__.py
 src/DetectionHF/entity/__init__.py
 src/DetectionHF/pipeline/__init__.py
 src/DetectionHF/utils/__init__.py
+src/DetectionHF/utils/common.py

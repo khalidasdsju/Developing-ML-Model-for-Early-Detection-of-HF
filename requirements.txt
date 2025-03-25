@@ -10,19 +10,23 @@ pytorch-tabnet
 boruta
 scipy
 statsmodels
-tensorflow==2.12.0
+tensorflow
 dvc
-mlflow==2.2.2
+mlflow
 notebook
-python-box==6.0.2
+python-box
 pyYAML
 tqdm
-ensure==1.0.2
+ensure
 types-PyYAML
 Flask
 Flask-Cors
 gdown
-
+optuna
+xgboost
+catboost
+shap
+pandas-profiling
 
 
 
